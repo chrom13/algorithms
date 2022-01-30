@@ -13,7 +13,6 @@ function bubbleSort($arr)
                 $arr[$j]=$aux;
             }
         }
-
     }
     return $arr;
 }
